@@ -34,6 +34,8 @@ Save the results as "Results.csv" and upload into the same directory where this 
 Also save the resultant "Count Mask" image file with the name "Count_Mask_22946173.tif" and upload into the [image_files](image_files) directory. (It should show up below once it is uploaded).  
 ![](image_files/Count_Mask_22946173.tif)  
 
+My image doesn't show because it says the .tif is too big to preview (8.9MB), but it's in the directory.  
+
 Q4) How many particles were detected?  
 A4) 2388 
 
